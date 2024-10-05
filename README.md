@@ -2,8 +2,8 @@
 
 <div>
   <div>
-    <a href="https://www.linkedin.com/in/luigi-matheus-b0650a310//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:luigicumaru@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/luigi-matheus-b0650a310//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:luigicumaru@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   </div>
 
 <div style="display: flex;" align="center">
