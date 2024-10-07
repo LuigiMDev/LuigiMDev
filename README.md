@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luigi 😁
+## Olá, Eu sou o Luigi 😁
 
 <div>
   <div>
