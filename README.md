@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Olá, Eu sou o Luigi 😁</h2>
+<h2 align="left"> Olá👋! Eu sou o Luigi 😁</h2>
 
 ###
 
